@@ -1,0 +1,14 @@
+{
+	"ZilChainID": 333,
+	"ZilURL": "https://dev-api.zilliqa.com",
+	"ZilPrivateKey": "",
+	"GasPrice": 2500,
+	"GasLimit": 30000000,
+	"ReportInterval": 60,
+	"BatchTxNum": 1,
+	"BatchInterval": 1,
+	"TxNumPerBatch": 1,
+	"RchainJsonRpcAddress": "http://beta1.poly.network:20336",
+	"RCWallet": "./poly.wallet",
+	"RCWalletPwd": ""
+}
